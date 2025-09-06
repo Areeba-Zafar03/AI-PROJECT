@@ -4,7 +4,6 @@ streamlit-lottie==0.0.5
 # LangChain stack
 langchain==0.2.7
 langchain-community==0.2.6
-langchain-google-genai==0.0.5
 openai==1.3.5
 
 # Embeddings / Transformers
@@ -21,3 +20,4 @@ pypdf==4.2.0
 
 # Vector DB
 faiss-cpu==1.8.0
+
